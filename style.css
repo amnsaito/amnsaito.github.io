@@ -27,6 +27,8 @@ ol {
     margin-bottom: 2px;
     margin-left: auto;
     font-size: 100%;
+　　text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
     /*word-break: break-all;*/
     background: #FFFFFF;
 }
