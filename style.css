@@ -11,19 +11,16 @@ h3 {
 }
 	
 .container {
-　　	font-size: 20px
-	width: 100%;
+　　	width: 100%;
     display: flex;
 	}
 
 .body {
-    	font-size: 20px
-	width: auto;
+    	width: auto;
 	margin: 2em;
     }
 
 .side {
-	font-size: 20px
 	white-space: nowrap;
 	width: auto;
     	height: 20px;
