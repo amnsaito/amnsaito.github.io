@@ -19,10 +19,6 @@ ol {
     margin-left: 5px;
 }
 
-.menu li.current a {
-    color: #cccccc;
-}
-
 .container {
     color: #191970;
     max-width: 900px;
@@ -65,9 +61,14 @@ ol {
 .menu li {
     text-align: justify;
     list-style: none;
+　　text-decoration: none;
     display: inline-block;
     width: auto;
     min-width: 100px;
+}
+
+.menu li.current a {
+    color: #cccccc;
 }
 
 .foot {
