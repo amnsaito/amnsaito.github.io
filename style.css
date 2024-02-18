@@ -72,6 +72,10 @@ ol {
     color: #cccccc;
 }
 
+.menu li a {
+    text-decoration: none;
+}
+
 .foot {
     color: #191970;
     width: 100%;
