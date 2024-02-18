@@ -49,6 +49,7 @@ ol {
 .menu {
     width: 100%;
     text-align: right;
+    text-decoration: none;
     font-size: 100%;
     list-style-type: none;
     margin: 0;
