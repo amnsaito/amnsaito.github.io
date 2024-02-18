@@ -19,6 +19,10 @@ ol {
     margin-left: 5px;
 }
 
+.menu li.current a {
+    color: #cccccc;
+}
+
 .container {
     color: #191970;
     max-width: 900px;
