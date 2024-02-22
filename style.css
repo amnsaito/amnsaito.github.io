@@ -1,3 +1,19 @@
+@media screen and (min-width: 480px) {
+/* スマホ */
+h2{font-size: 2rem;}
+h3{font-size: 1.8rem;}
+p {font-size: 1.2rem;}}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+/* タブレット */
+h2{font-size: 3rem;} /*1rem=10px*/
+h3{font-size: 2.5rem;}
+p {font-size: 1.5rem;}}
+@media screen and (min-width: 1024px) {
+/* PC */
+h2{font-size: 4rem;}
+h3{font-size: 3rem;}
+p {font-size: 1.6rem;}}
+
 h2 {
   color: #191970;/*文字色*/
 }
