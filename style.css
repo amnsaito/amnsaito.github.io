@@ -27,14 +27,6 @@ p {
     padding: 0;
 }
 
-a {
-    font-size: 100%;
-}
-
-ul {
-    font-size: 100%;
-}
-
 ol {
     margin-left: 5px;
 }
@@ -104,6 +96,7 @@ ol {
     display: inline-block;
     width: auto;
     min-width: 100px;
+}
 
 .menu li.current a {
     color: #cccccc;
