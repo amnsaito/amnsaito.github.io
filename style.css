@@ -100,6 +100,7 @@ ol {
 .menu li {
     text-align: center;
     list-style: none;
+    text-decoration: none;
     display: inline-block;
     width: 20%;
     min-width: 100px;
