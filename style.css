@@ -58,11 +58,8 @@ ol {
     margin-left: auto;
     /*font-size: 0.038vw !important;*/
     font-size: 16px;
-    /*-webkit-text-size-adjust: none;*/
-    /*-moz-text-size-adjust: none;*/
-  　/*text-size-adjust: none;*/
-　　text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
+    /*text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;*/
     word-break: break-all;
     background: #FFFFFF;
 }
