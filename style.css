@@ -79,7 +79,7 @@ ol {
 }
 
 .menu li {
-    text-align: center;
+    text-align: justify;
     list-style: none;
 　　display: inline-block;
     width: auto;
