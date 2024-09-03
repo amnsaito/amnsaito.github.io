@@ -15,19 +15,19 @@ html {font-size: 16px;}
 }
 
 a:link {
- color: #0000EE;
+ color: blue;
  text-decoration: underline;
 }
 
 a:visited {
- color: #0000EE;
+ color: blue;
  text-decoration: underline;
 }
 
 a:hover {}
 
 a:active {
- color: #FF0000;
+ color: blue;
  text-decoration: underline;
 }
 
