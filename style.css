@@ -14,6 +14,23 @@ html {font-size: 18px;}
 html {font-size: 16px;}
 }
 
+a:link {
+ color: #0000EE;
+ text-decoration: underline;
+}
+
+a:visited {
+ color: #0000EE;
+ text-decoration: underline;
+}
+
+a:hover {}
+
+a:active {
+ color: #FF0000;
+ text-decoration: underline;
+}
+
 h2 {
   color: #191970;/*文字色*/
 }
@@ -119,6 +136,7 @@ ol {
     /*font-family: 'ヒラギノ丸ゴ ProN', 'メイリオ', 'ＭＳ Ｐゴシック';*/
     background: #FFFFFF;
 }
+
 
 
 
